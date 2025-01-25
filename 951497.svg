@@ -4,15 +4,16 @@
     <g transform="matrix(1.55127,0,0,2.37398,-415.109,-883.31)">
         <path d="M1188.87,502.303L1188.87,856.139C1188.87,921.235 1107.99,974.084 1008.38,974.084L466.882,974.084C367.263,974.084 286.384,921.235 286.384,856.139L286.384,502.303C286.384,437.208 367.263,384.358 466.882,384.358L1008.38,384.358C1107.99,384.358 1188.87,437.208 1188.87,502.303Z" style="fill:rgb(41,151,178);stroke:black;stroke-width:0.5px;"/>
     </g>
-    <g id="Sin-título.svg" serif:id="Sin título.svg" transform="matrix(2.59259,0,0,2.59259,729.15,729.15)">
-        <g id="Capa1">
-            <g id="Sin-título.svg1" serif:id="Sin título.svg" transform="matrix(1,0,0,1,-270,-270)">
+    <g id="Capa1">
+        <g id="Sin-título.svg" serif:id="Sin título.svg" transform="matrix(2.59259,0,0,2.59259,729.15,729.15)">
+            <g transform="matrix(1,0,0,1,-270,-270)">
                 <g id="_08-Alimerka-Oviedo-2.webp" serif:id="08-Alimerka-Oviedo-2.webp" transform="matrix(1,0,0,1,45,0)">
                     <use xlink:href="#_Image1" x="0" y="0" width="450px" height="540px"/>
                 </g>
             </g>
-            <g id="Sin-título.svg2" serif:id="Sin título.svg">
-            </g>
+        </g>
+        <g transform="matrix(1.39672,0,0,1.00413,-355.061,-4.90405)">
+            <path d="M1277.43,312.762L1277.43,1149.31C1277.43,1303.21 1187.6,1428.15 1076.96,1428.15L475.549,1428.15C364.907,1428.15 275.08,1303.21 275.08,1149.31L275.08,312.762C275.08,158.862 364.907,33.914 475.549,33.914L1076.96,33.914C1187.6,33.914 1277.43,158.862 1277.43,312.762Z" style="fill:rgb(41,151,178);fill-opacity:0;"/>
         </g>
     </g>
     <g transform="matrix(1.23227,0,0,1.01234,-178.863,-9.02039)">
